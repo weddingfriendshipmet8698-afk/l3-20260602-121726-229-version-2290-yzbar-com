@@ -1,0 +1,6 @@
+static_movie_site_manifest
+movie_count=2000
+detail_pages=2000
+category_pages=10
+video_sources=20
+image_policy=pages_reference_top_level_1jpg_to_150jpg
